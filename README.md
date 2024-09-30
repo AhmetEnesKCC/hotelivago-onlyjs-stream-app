@@ -29,6 +29,7 @@
 ```sh
 cd hotelivago-api
 npm install # ilk sefer için
+npx prisma generate # prisma tiplerini generate etmek için
 npm run start
 ```
 
